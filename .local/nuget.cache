@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YkGCglB7ipqC4Imjbd379rGXaoXGs9vR1fyttOH1ME7y4jeP3a6M9jzq168+JOL5iiHe8YLkA9674DKDQac3DA==",
+  "dgSpecHash": "tYeA+1WCWcXWrZp4UAGgY8TphnsItycmL4Tol/Z9WFFqPYT8+FCqLi2Moca/kv8sS8b+DU569gQ4HvnrLO6TVQ==",
   "success": true,
-  "projectFilePath": "D:\\gabi\\uipath_robots\\emag\\.local\\",
+  "projectFilePath": "D:\\gabi\\UIPath CV Robots\\data_extractor\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\aforge.imaging\\2.2.5\\aforge.imaging.2.2.5.nupkg.sha512",

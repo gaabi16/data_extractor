@@ -5501,9 +5501,9 @@
     "restore": {
       "projectUniqueName": "emag",
       "projectName": "emag",
-      "projectPath": "D:\\gabi\\uipath_robots\\emag\\.local",
+      "projectPath": "D:\\gabi\\UIPath CV Robots\\data_extractor\\.local",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\gabi\\uipath_robots\\emag\\.local"
+      "outputPath": "D:\\gabi\\UIPath CV Robots\\data_extractor\\.local"
     },
     "frameworks": {
       "net461": {
